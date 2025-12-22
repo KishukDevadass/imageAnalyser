@@ -1,0 +1,4 @@
+streamlit - pip install streamlit / streamlit run app.py 
+python-dotenv - pip install load_dotenv
+activate venv - python -m venv venv / .\venv\Scripts\Activate.ps1  
+python -  python -u

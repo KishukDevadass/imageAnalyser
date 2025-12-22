@@ -1,0 +1,18 @@
+# Ignore the Environment Variables (Your API Keys)
+.env
+
+# Ignore Python virtual environments
+venv/
+ENV/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore the local database (so you don't upload your personal history)
+*.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
